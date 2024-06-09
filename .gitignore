@@ -25,6 +25,3 @@ pnpm-debug.log*
 
 # vscode setting folder
 .vscode/
-
-# npm package manager
-package-lock.json
